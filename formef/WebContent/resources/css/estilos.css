@@ -1,0 +1,20 @@
+@CHARSET "UTF-8";
+
+.ui-layout-north {
+	z-index: 20 !important;
+	overflow: visible !important;
+}
+
+.ui-layout-north .ui-layout-unit-content {
+	overflow: visible !important;
+	background-color: transparent;
+}
+
+.ui-widget, .ui-widget .ui-widget {
+	font-size: 11px !important;
+}
+
+.semBorda tr, .semBorda td {
+	border: none !important;
+	height: 
+}
